@@ -11,4 +11,12 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 [insurance prediction](https://github.com/anusdharan/my_insurancemodel_deployment)
 
 ### Skills
+Scripting and libraries : Python,NumPy,Pandas,Sklearn,Plotly,Seaborn,Matplotlib,Tensorflow,Keras
 
+Data science: Machine Learning,Deep Learning,EDA
+
+Big Data: Hadoop,Spark(PySpark),SparkML,DataBricks,Hive
+
+Database:SQL-RDS,NoSql-Mongodb,DynamoDB
+
+Cloud:AWS-Sagemaker,HEROKU
