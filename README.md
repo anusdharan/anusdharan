@@ -19,4 +19,4 @@ Big Data: Hadoop,Spark(PySpark),SparkML,DataBricks,Hive
 
 Database:SQL-RDS,NoSql-Mongodb,DynamoDB
 
-Cloud:AWS-Sagemaker,HEROKU
+Cloud:AWS-Sagemaker,HEROKU,Google Colab
