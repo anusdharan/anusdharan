@@ -12,7 +12,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 [income_prediction](https://github.com/anusdharan/income_prediction)
 
-[Customer Complaints](https://github.com/anusdharan/Telecom_CustomerComplaints_with-deployment.git))
+[Customer Complaints](https://github.com/anusdharan/Telecom_CustomerComplaints_with-deployment.git)
 
 ### Skills
 Scripting and libraries : Python,NumPy,Pandas,Sklearn,Plotly,Seaborn,Matplotlib,Tensorflow,Keras
