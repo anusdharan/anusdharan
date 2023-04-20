@@ -5,7 +5,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
 - 🤝 Open for job in  analytics,data science and python
-- 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/anusdharan/) 
+- 👨 Know more about me at [Linkedin](https://www.linkedin.com/in/anusdharan/) &[Portfolio](https://anusdharanportfolio.dorik.io/)
 
 ### My Recent projects 
 
