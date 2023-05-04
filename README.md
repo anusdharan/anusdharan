@@ -26,10 +26,10 @@ Scripting and libraries : Python,NumPy,Pandas,Sklearn,Plotly,Seaborn,Matplotlib,
 
 Data science: Machine Learning,Deep Learning,EDA
 
-Big Data: Hadoop,Spark(PySpark),SparkML,DataBricks,Hive
+Big Data:Spark(PySpark)
 
-Database:SQL-RDS,NoSql-Mongodb,DynamoDB
+Database:SQL-RDS
 
-Cloud:AWS-Sagemaker,HEROKU,Google Colab
+Cloud:AWS,HEROKU,Google Colab
 
 DataVizualisation: Tableau Desktop
